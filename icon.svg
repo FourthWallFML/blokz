@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="112" fill="#2F5D50" />
+  <rect x="76" y="76" width="360" height="360" rx="72" fill="#3B7162" fill-opacity="0.35" />
+  <!-- Stacked Blokz study blocks forming an iconic geometric B -->
+  <rect x="136" y="120" width="168" height="76" rx="22" fill="#FAF8F4" />
+  <rect x="136" y="218" width="240" height="76" rx="22" fill="#D4845A" />
+  <rect x="136" y="316" width="212" height="76" rx="22" fill="#FAF8F4" />
+  <!-- Crisp accent dot -->
+  <circle cx="352" cy="158" r="24" fill="#F2C166" />
+</svg>

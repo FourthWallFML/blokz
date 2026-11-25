@@ -1,0 +1,33 @@
+{
+  "id": "./",
+  "name": "Blokz — Examen- & Studieplanner",
+  "short_name": "Blokz",
+  "description": "Slimme examen- en studieplanner voor scholieren met studievoorstellen, gamification, mijlpalen, ouder-beloningen en focustimer.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#2F5D50",
+  "background_color": "#F7F5F0",
+  "lang": "nl",
+  "icons": [
+    {
+      "src": "./pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
