@@ -1,4 +1,4 @@
-const CACHE_NAME = 'blokz-pwa-v3';
+const CACHE_NAME = 'blokz-pwa-v4';
 const CORE_ASSETS = [
   './',
   './index.html',
@@ -7,7 +7,6 @@ const CORE_ASSETS = [
   './pwa-192x192.png',
   './pwa-512x512.png',
   './apple-touch-icon.png',
-  './assets/aistudio/Gemini_Generated_Image_78i1lq78i1lq78i1_efe2bb5f.png',
 ];
 
 self.addEventListener('install', (event) => {
